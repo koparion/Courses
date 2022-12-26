@@ -1,11 +1,11 @@
 # Verilog
-## 1. [ALU with Display](https://github.com/koparion/Courses/tree/main/DigitalCircuits/ALUwithDisplay)
-## 2. [Adder Subtractor](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Adder_Subtractor)
-## 3. BCD to Excess 3
-## 4. Bin7Seg / Nine's complementor
-## 5. Full Adder
-## 6. MUX 4 x 1
-## 7. Magnitude Comparator
-## 8. Mulitpler
-## 9. Sequence Dectector
-## 10. Subtractor
+## 1.  [ALU with Display](https://github.com/koparion/Courses/tree/main/DigitalCircuits/ALUwithDisplay)
+## 2.  [Adder Subtractor](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Adder_Subtractor)
+## 3.  [BCD to Excess 3](https://github.com/koparion/Courses/tree/main/DigitalCircuits/BCDtoExcess3)
+## 4.  [Bin7Seg / Nine's complementor](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Bin7Seg-nine's%20complementor)
+## 5.  [Full Adder](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Full%20Adder)
+## 6.  [MUX 4 x 1](https://github.com/koparion/Courses/tree/main/DigitalCircuits/MUX4x1)
+## 7.  [Magnitude Comparator](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Magnitude%20Comparator)
+## 8.  [Mulitplier](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Multiplier)
+## 9.  [Sequence Dectector](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Sequence%20Detector)
+## 10. [Subtractor](https://github.com/koparion/Courses/tree/main/DigitalCircuits/Subtractor)
